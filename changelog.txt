@@ -1,0 +1,11 @@
+RecRoom Legacy 0.0.0 - RELEASE!
+
+Thanks for using the rrl launcher, this was pain
+But i couldn't have done it without the following credited:
+
+[Vermahh - Creator, Server Provider, Build Provider]
+[Neon - Following founder]
+[aqquad/creator of reborn rec - providing open source api.cs thx]
+[doalt/wally - Following founder, Made the launcher]
+
+Thx to all :D
